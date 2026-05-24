@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://github.com/SuAlDenSala.png" width="220" style="border-radius:50%;" />
+
+
 # 👋 Hello, I'm Sualden Sala!
 
 ### 💻 Backend Developer | 📱 Mobile Developer | 🛠️ System Builder
